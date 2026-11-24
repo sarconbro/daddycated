@@ -8,3 +8,7 @@ print('This is a commit to git-along with Lazar in le video on MAIN branch')
 print('This is added on FEATURE/ADD-LAZAR')
 
 print('Now this is the final line, added to the new branch "featuer/final-line"' )
+
+# t02w3 Git Branches and GitHub Video w Lazar, part 2
+print('Trying something out with this new cool branch feature/experiment, probably some push-pull-fetch action on GitHub...')
+
